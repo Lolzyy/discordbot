@@ -1,7 +1,7 @@
 # discordbot
 Basic discord bot written in python with discopy lib
-Do whatever you want with this and msg me if you need help with something or need a specific feature
-Also it could be written better instead of that if cascade but w/e
+do whatever you want with this and msg me if you need help with something or need a specific feature
+it could be written better instead of that if cascade  but w/e
 
 
 "!citazione" returns a random string from a txt file in the same directory as the bot
